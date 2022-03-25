@@ -2,9 +2,30 @@
         background-color: #A0522D;
     }
 
-    img{
-        width: 40%;
+    .img_topo{
+        width: 100%;
+
+
     }
+
+    .img_corpo{
+
+        ]width: 20%;
+    }
+
     figure{
         text-align: center;
+    }
+
+    .conteiner{
+
+     width: 80%;
+     margin: auto;
+
+    }
+
+    p{
+        font-size: 1.4em;
+
+
     }
