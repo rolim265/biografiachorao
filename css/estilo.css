@@ -3,7 +3,7 @@
     }
 
     .img_topo{
-        width: 100%;
+        width: 70%;
 
 
     }
@@ -17,7 +17,7 @@
         text-align: center;
     }
 
-    .conteiner{
+    .container{
 
      width: 80%;
      margin: auto;
@@ -26,6 +26,6 @@
 
     p{
         font-size: 1.4em;
-
+        
 
     }
