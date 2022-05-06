@@ -1,16 +1,20 @@
     body{
         background-color: #A0522D;
     }
+    .fundo_diferente{
+        background-image:linear-gradient(to bottom, #33ccff 0%, #660066 100%);;
+      }
 
     .img_topo{
         width: 70%;
-
+       
 
     }
 
     .img_corpo{
 
-        ]width: 20%;
+        width: 40%;
+    
     }
 
     figure{
@@ -29,3 +33,18 @@
         
 
     }
+
+    .parag_letras > p{
+
+        font-size: 1em;
+      }
+      
+      .chorao_botao{
+        width: 150px;
+        height: 50px;
+        background-image: linear-gradient(to right, #ff00f200 , rgb(0, 0, 0));
+        margin: auto;            
+      }
+      .botao{
+        padding-top: 15px;
+      }
