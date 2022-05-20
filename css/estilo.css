@@ -1,3 +1,7 @@
+    html{
+      scroll-behavior: smooth;
+    }
+    
     body{
         background-color: #A0522D;
     }
@@ -6,7 +10,7 @@
       }
 
     .img_topo{
-        width: 70%;
+        width: 100%;
        
 
     }
@@ -47,4 +51,20 @@
       }
       .botao{
         padding-top: 15px;
+      }
+      h1{
+        text-align: center;
+        color: #33ccff;
+        font-size: 2em;
+      }
+      h2{text-align: center;
+      font-size: 1.5em;
+      }
+      .menu{
+        background-color: #660066;
+        padding: 2%;
+      }
+      .itens_menu{
+        line-height: 1.5;
+        
       }
