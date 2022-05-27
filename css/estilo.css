@@ -32,7 +32,15 @@
     .img_corpo{
 
         width: 40%;
-    
+        margin-top: 1%;
+        margin-bottom: 1%;
+    }
+
+    h2{
+      text-align: center;
+      color: 	#09cad8;
+      font-size: 1.5em;
+      margin-bottom: 2%;
     }
 
     figure{
@@ -80,3 +88,22 @@
           text-align: center;
 
         }
+
+        .item_menu ul li a{
+            background-color: #f44336;
+            color: white;
+            padding: 14px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+        }
+          
+          .item_menu ul li a:hover, a:active {
+            background-color: red;
+          }
+
+          section{
+            margin-top: 2%;
+            margin-bottom: 2%;
+          }
+        
