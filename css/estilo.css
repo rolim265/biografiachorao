@@ -5,6 +5,20 @@
     body{
         background-color: #A0522D;
     }
+    .logo{
+      padding-top: 1%;
+      padding-bottom: 1%;
+    }
+    
+    .menu, footer{
+      background-color: rgb(163, 0, 0);
+      padding: 1.5%;
+    }
+    
+    .item_menu{
+      line-height: 1.5;
+      text-align: center;
+    }
     .fundo_diferente{
         background-image:linear-gradient(to bottom, #33ccff 0%, #660066 100%);;
       }
@@ -59,12 +73,10 @@
       }
       h2{text-align: center;
       font-size: 1.5em;
-      }
-      .menu{
-        background-color: #660066;
-        padding: 2%;
-      }
-      .itens_menu{
-        line-height: 1.5;
-        
-      }
+      } 
+       footer p{
+
+          font-size: 1.2em;
+          text-align: center;
+
+        }
