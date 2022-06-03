@@ -68,7 +68,12 @@
       .chorao_botao{
         width: 150px;
         height: 50px;
-        background-image: linear-gradient(to right, #ff00f200 , rgb(0, 0, 0));
+        background-color: #f44336;
+        color: white;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
         margin: auto;            
       }
       .botao{
@@ -106,4 +111,11 @@
             margin-top: 2%;
             margin-bottom: 2%;
           }
-        
+          
+          .img_ladin{
+           float: left;
+           width:200px;
+           height:170px;
+           margin-right:14px; 
+          }
+          
