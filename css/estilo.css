@@ -122,3 +122,15 @@
           .testecss{
             display: none;
           }
+          table{
+            border-collapse: collapse;
+            width: 100%;
+        }
+        
+        td, th {
+            border: ridge 2px rgb(255, 0, 0); 
+            padding-top: 0.5% ;   
+            padding-bottom: 0.5%;
+            font-family: monospace;
+        
+        }
