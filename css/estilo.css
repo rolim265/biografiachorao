@@ -13,6 +13,8 @@
     .menu, footer{
       background-color: rgb(163, 0, 0);
       padding: 1.5%;
+      font-family: 'Cagliostro', sans-serif;
+font-family: 'Mochiy Pop One', sans-serif;
     }
     
     .item_menu{
@@ -41,6 +43,9 @@
       color: 	#09cad8;
       font-size: 1.5em;
       margin-bottom: 2%;
+      font-family: 'Cagliostro', sans-serif;
+font-family: 'Mochiy Pop One', sans-serif;
+      
     }
 
     figure{
@@ -56,6 +61,7 @@
 
     p{
         font-size: 1.4em;
+        font-family: 'Cagliostro', sans-serif;
         
 
     }
@@ -74,7 +80,9 @@
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        margin: auto;            
+        margin: auto; 
+        font-family: 'Cagliostro', sans-serif;
+font-family: 'Mochiy Pop One', sans-serif;           
       }
       .botao{
         padding-top: 15px;
@@ -83,14 +91,18 @@
         text-align: center;
         color: #33ccff;
         font-size: 2em;
+        font-family: 'Cagliostro', sans-serif;
+font-family: 'Mochiy Pop One', sans-serif;
       }
       h2{text-align: center;
       font-size: 1.5em;
+      font-family: 'Cagliostro', sans-serif;
       } 
        footer p{
 
           font-size: 1.2em;
           text-align: center;
+          
 
         }
 
